@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Category Archives - Golf Bandar Kemayoran</title>
+	<atom:link href="https://tege54.github.io/kemayoran/project_category/category/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tege54.github.io/kemayoran/project_category/category/</link>
+	<description>A New Concept and Challenging City Golf Course</description>
+	<lastBuildDate>Thu, 10 Nov 2016 20:32:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://tege54.github.io/kemayoran/wp-content/uploads/2020/09/cropped-gbk-site-icon-150x150.png?v=1607009280</url>
+	<title>Category Archives - Golf Bandar Kemayoran</title>
+	<link>https://tege54.github.io/kemayoran/project_category/category/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Portfolio 1</title>
+		<link>https://tege54.github.io/kemayoran/portfolio/portfolio-1-2/</link>
+		
+		<dc:creator><![CDATA[akmal]]></dc:creator>
+		<pubDate>Thu, 10 Nov 2016 20:32:42 +0000</pubDate>
+				<guid isPermaLink="false">https://golf.generusmedia.com/portfolio/portfolio-1-2/</guid>
+
+					<description><![CDATA[<p>The post <a href="https://tege54.github.io/kemayoran/portfolio/portfolio-1-2/">Portfolio 1</a> appeared first on <a href="https://tege54.github.io/kemayoran">Golf Bandar Kemayoran</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="https://tege54.github.io/kemayoran/portfolio/portfolio-1-2/">Portfolio 1</a> appeared first on <a href="https://tege54.github.io/kemayoran">Golf Bandar Kemayoran</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
